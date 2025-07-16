@@ -53,8 +53,8 @@ Understanding vectors is **foundational** for:
 ## ⚡ **How to Run**
 
 1. Clone this repo:
-   ```bash
-  https://github.com/junaidshah2001/Vector-Operations
+https://github.com/junaidshah2001/Vector-Operations
+
 
 💡 What I Learned
 How to calculate vector length using L1 and L2 norms.
